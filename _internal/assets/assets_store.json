@@ -1,0 +1,102 @@
+{
+    "textures": {
+        "icon": "icon.png",
+
+        "grass": "Terrain/grass.png",
+        "mossy_steel": "Terrain/mossy_steel.png",
+        "platform_forest": "Terrain/platform_forest.png",
+        "checkpoint_ground": "Terrain/beach_sand.png",
+        "wall": "Terrain/wall.png",
+        "sign": "Objects/sign.png",
+        "hook": "Objects/hook.png",
+        "chain": "Objects/chain.png",
+
+        "tree1": "Terrain/tree1.png",
+        "tree2": "Terrain/tree2-little.png",
+        "plant1": "Terrain/plant1.png",
+        "platform-forest1": "Terrain/platform-forest1.png",
+        "platform-forest2": "Terrain/platform-forest2.png",
+
+        "tree_stump": "Terrain/tree_stump.png",
+        "moving_platform": "Terrain/forest-tiles/tile_06.png",
+        "bridge_plank": "Terrain/forest-tiles/tile_44.png",
+
+        "player": "Player/VirtualGuy/jump.png",
+        "jump_anim": "Player/VirtualGuy/jump.png",
+        "fall_anim": "Player/VirtualGuy/fall.png",
+
+        "menu_bg": "UI/Background/Background_space.png",
+
+        "forest_bg": "Background/Parallax/Forest/bg.png",
+        "forest_layer1": "Background/Parallax/Forest/forest1.png",
+        "forest_layer2": "Background/Parallax/Forest/forest2.png",
+        "forest_layer3": "Background/Parallax/Forest/forest3.png",
+
+        "desert_layer1": "Background/Parallax/Desert/desert1.png",
+        "desert_layer2": "Background/Parallax/Desert/desert2.png",
+        "desert_layer3": "Background/Parallax/Desert/desert3.png",
+        "desert_layer4": "Background/Parallax/Desert/desert4.png",
+        "desert_layer5": "Background/Parallax/Desert/desert5.png",
+
+        "industrial_bg": "Background/Parallax/Industrial/bg.png",
+        "industrial_layer1": "Background/Parallax/Industrial/layer1.png",
+        "industrial_layer2": "Background/Parallax/Industrial/layer2.png",
+        "industrial_layer3": "Background/Parallax/Industrial/layer3.png",
+
+        "industrial_tile": "Terrain/industrial_tile.png",
+
+        "water_drop": "Objects/water_drop.png",
+
+        "rain_collector": "Objects/rain_collector.png",
+        "switch_off": "Objects/switch_off.png",
+        "switch_on": "Objects/switch_on.png",
+
+        "boss": "Player/MaskDude/idle.png",
+        "enemy": "Player/little robot/idle_robot_scaled.png",
+        "health": "UI/heart.png",
+
+        "trap_idle": "Objects/trap_active.png",
+        "trap_active": "Objects/trap_idle.png",
+
+        "melanie": "Portrait/melanie.jpeg",
+        "ai_icon": "Portrait/ai_icon.jpeg",
+        "player_base": "Portrait/portrait_base.jpeg",
+        "ship": "Background/ship.jpeg",
+        "desolated_earth": "Background/desolated_earth.jpeg",
+        "computer_menu": "UI/level_menu.png",
+
+        "antenna": "Objects/antenna.png"
+
+    },
+    "animations": {
+        "run": ["Player/VirtualGuy/run.png", 12, 70],
+        "run_fast": ["Player/VirtualGuy/run.png", 12, 50],
+        "idle": ["Player/VirtualGuy/idle.png", 11, 100],
+        "hit": ["Player/VirtualGuy/hit.png", 7, 50],
+        "you_idle": ["Player/You/idle.png", 2, 250],
+        "you_run": ["Player/You/run.png", 3, 150],
+        "you_run_fast": ["Player/You/run.png", 3, 100]
+    },
+    "music": {
+        "titleScreen": "MainTheme.mp3",
+        "inGame": "Dear To The Heart.mp3",
+        "level1": "Dear To The Heart.mp3",
+        "level2": "Idee3.mp3",
+        "level3": "Desert.mp3",
+        "bossLevel": "industrial.mp3",
+        "pause": "Idea2.mp3"
+    },
+    "sfx": {
+        "jump": "robot-jump.mp3",
+        "death": "robot-die.mp3",
+        "fire": "piou1.mp3",
+        "empty_weapon": "empty_weapon.mp3",
+        "water_refill": "water_fill.mp3",
+        "checkpoint": "checkpoint_sfx.mp3",
+        "switch": "switch_click.mp3"
+    },
+    "fonts": {
+        "default": "Gm6x11.ttf",
+        "debug": "Gm6x11.ttf"
+    }
+}
