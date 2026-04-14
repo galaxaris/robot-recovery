@@ -1,6 +1,6 @@
 
 
-[Readme](README.md) | [Scenario](SCENARIO.md) | [License](LICENSE.md)
+[Readme](README.md) | [Scenario](SCENARIO.md) | [License](LICENSE.md) | [CODE FOR GAME](https://github.com/galaxaris/game) | [CODE FOR API](https://github.com/galaxaris/api)
 
 ----
 
