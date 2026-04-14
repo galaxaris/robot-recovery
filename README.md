@@ -4,8 +4,7 @@
 
 ----
 
-<img src="icon.png" alt="Galaxaris Game Logo" width="100"/>
-
+<img src="icon.png" alt="Galaxaris Logo" width="100"/><span style="margin-left: 40px;"></span><img src="Logo-Robot-recovery.png" alt="Robot Recovery Screenshot" width="100"/>
 <!-- TEST2 -->
 # ✨ Robot Recovery ✨
 The Official Omicronde Project, by [Galaxaris](https://github.com/galaxaris/).
