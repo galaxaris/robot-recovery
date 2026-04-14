@@ -23,7 +23,7 @@ Execute the Robot Recovery.exe file. Windows may give you a warning as this app 
 
 ## Features
 
-The _Omicronde Project_ is platformer video game project. Intended for children between 6 and 10 years old, it is a fun and educational game about our future and the importance of taking care of our planet... 
+The _Robot Recovery_ is platformer video game project. Intended for children between 6 and 10 years old, it is a fun and educational game about our future and the importance of taking care of our planet... 
 
 You will play a little robot responsible for cleaning up the planet and fighting pollution. You will explore different environments, solve mysteries, and fight bosses to save the world!
 
@@ -32,7 +32,7 @@ You will play a little robot responsible for cleaning up the planet and fighting
 -----------------------------
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright © 2026 Galaxaris & Associates. All rights reserved.
 
 **You can read the License in the LICENSE file:
 [[LICENSE](LICENSE)]**
